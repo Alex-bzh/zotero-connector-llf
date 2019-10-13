@@ -16,9 +16,9 @@ L’archive LLF-connector-Zotero-linux-mac-v0.2.tar.gz contient les fichiers sui
 
 ## Installation
 
-1. Lancer le script *LLF-connector-Zotero-linux-mac.py* dans un terminal (*shell*) :
+1. Lancer le script *LLF-connector.py* dans un terminal (*shell*) :
 ```shell
-$ python LLF-connector-Zotero-linux-mac.py
+$ python LLF-connector.py
 ```
 
 ## Utilisation
