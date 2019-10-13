@@ -6,7 +6,7 @@ Il ne fonctionne pour le moment que sur les plateformes Linux et MacOS. La versi
 
 L’installation du connecteur aura pour effet de rajouter un moteur de recherche dans l’application Zotero.
 
-# Distribution
+## Distribution
 
 Le connecteur est distribué dans sa version 0.2 sous licence CECILL 2.1 :
 http://www.cecill.info/licences/Licence_CeCILL_V2.1-fr.txt
@@ -15,7 +15,7 @@ L’archive LLF-connector-Zotero-linux-mac-v0.2.tar.gz contient les fichiers sui
 - *LLF-connector-Zotero-linux-mac.py* : le programme d’installation, à lancer dans un terminal (*shell*) ;
 - *README.md* : le présent fichier qui contient des informations diverses ainsi que les instructions d'installation.
 
-# Installation
+## Installation
 
 1. Télécharger la dernière archive
 2. Décompacter dans le répertoire de votre choix
@@ -24,7 +24,7 @@ L’archive LLF-connector-Zotero-linux-mac-v0.2.tar.gz contient les fichiers sui
 $ python LLF-connector-Zotero-linux-mac.py
 ```
 
-# Utilisation
+## Utilisation
 
 1. Lancer Zotero
 2. Sélectionner une publication
