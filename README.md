@@ -8,8 +8,7 @@ L’installation du connecteur aura pour effet de rajouter un moteur de recherch
 
 ## Distribution
 
-Le connecteur est distribué dans sa version 0.2 sous licence CECILL 2.1 :
-http://www.cecill.info/licences/Licence_CeCILL_V2.1-fr.txt
+Le connecteur est distribué dans sa version 0.2 sous licence CECILL 2.1.
 
 L’archive LLF-connector-Zotero-linux-mac-v0.2.tar.gz contient les fichiers suivants :
 - *LLF-connector-Zotero-linux-mac.py* : le programme d’installation, à lancer dans un terminal (*shell*) ;
